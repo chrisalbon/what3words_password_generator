@@ -6,7 +6,7 @@ Seemingly unrelated, [what3words](what3words.com) is a location service that con
 
 I decided to make a password generator using what3words.
 
-This function generates a random latitude and longitude coordinate pair, and uses the what3words API to generate three words to use as a password. The function also has the option of appending a number and/or character as needed.
+This function generates a random latitude and longitude coordinate pair, and uses the what3words API to generate three words to use as a password. The function also has the option of appending a number and/or character, and an option for adding capital letters.
 
 The script is in iPython notebook format, but you can view it on [iPython notebook viewer site](http://nbviewer.ipython.org/github/chrisalbon/what3words_password_generator/blob/master/password_generator.ipynb).
 
