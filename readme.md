@@ -1,6 +1,6 @@
 # Generating Passwords Using What3Words
 
-One of my favorite XKCD comics is [about passwords](http://xkcd.com/936/). Specifically, why not just choose three random words and make that your password?
+One of my favorite XKCD comics is [about passwords](http://xkcd.com/936/). Specifically, rather than some complicated symbol/number/character mess, why not just choose three random words and make that your password?
 
 Seemingly unrelated, [what3words](what3words.com) is a location service that converts lat/long coordinates into three words. So instead of a long list of numbers, a location can be marked as "petal fumes night" or "loving loving sofa."
 
